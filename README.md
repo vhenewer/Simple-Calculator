@@ -39,7 +39,7 @@ This is a simple calculator application built using PyQt6. The application suppo
 
 
 ### Example 3
-**Input**: 8*9 = **Output**: 72
+**Input**: 8 * 9 = **Output**: 72
 
 
 ### Example 4
