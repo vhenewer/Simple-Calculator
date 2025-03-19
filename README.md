@@ -30,18 +30,20 @@ This is a simple calculator application built using PyQt6. The application suppo
 ## Sample Input/Output
 ### Example 1
 **Input**: 7 + 5 = **Output**: 12
-
+![Screenshot1](screensh_1.png)
 
 
 ### Example 2
 **Input**: 25 / 5 = **Output**: 5
-
+![Screenshot2](screensh_2.png)
 
 
 ### Example 3
 **Input**: 8 * 9 = **Output**: 72
+![Screenshot3](screensh_3.png)
 
 
 ### Example 4
 **Input**: 5 / 0 = **Output**: undefined
+![Screenshot4](screensh_4.png)
 
