@@ -1,4 +1,4 @@
-# PyQt6 Calculator
+# Simple Calculator
 
 This is a simple calculator application built using PyQt6. The application supports basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
