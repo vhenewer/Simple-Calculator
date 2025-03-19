@@ -29,19 +29,19 @@ This is a simple calculator application built using PyQt6. The application suppo
 
 ## Sample Input/Output
 ### Example 1
-**Input**: 5 + 3 = **Output**: 8
+**Input**: 7 + 5 = **Output**: 12
 
 
 
 ### Example 2
-**Input**: 10 / 2 = **Output**: 5
+**Input**: 25 / 5 = **Output**: 5
 
 
 
 ### Example 3
-**Input**: 7*6 = **Output**: 42
+**Input**: 8*9 = **Output**: 72
 
 
 ### Example 4
-**Input**: 10 / 0 = **Output**: undefined
+**Input**: 5 / 0 = **Output**: undefined
 
